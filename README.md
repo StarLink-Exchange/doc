@@ -950,7 +950,7 @@
 | orderType    | 是   | string | 订单类型  L 限价单  M 市价单 SL 止盈止损单                |
 | price        | 是   | string | 价格                                                      |
 | triggerPrice | 是   | string | 止盈止损单触发价                                          |
-| size         | 是   | int    | 数量                                                      |
+| size         | 是   | string | 数量                                                      |
 | amount       | 是   | string | 市价买入,买入总额                                         |
 | nonceStr     | 是   | string | 随机字符串                                                |
 | timestamp    | 是   | string | 时间戳                                                    |
